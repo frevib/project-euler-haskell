@@ -1,4 +1,4 @@
-module Euler001 where
+module Euler020 where
 
 import Data.Char
 
